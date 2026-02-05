@@ -1,0 +1,3 @@
+I am PRINCE JOSHVA R, a Computer Science Engineering student with a strong interest in software development and problem solving. I enjoy building practical applications using Java, Python,  and I am particularly interested in  real-world tech solutions. I have worked on project such as e-commerce (car-rental)
+
+I am passionate about learning new technologies, collaborating in teams, and developing innovative ideas that can create social impact. My strengths include logical thinking, communication skills, and the ability to quickly adapt to new tools and environments. I look forward to contributing my skills, learning from others, and building meaningful solutions during this hackathon.
